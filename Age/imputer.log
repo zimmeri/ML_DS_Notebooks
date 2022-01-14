@@ -1,0 +1,247 @@
+2021-09-28 18:34:42,978 [INFO]  NumExpr defaulting to 8 threads.
+2021-09-28 18:34:43,115 [INFO]  
+========== start: fit model
+2021-09-28 18:34:43,115 [WARNING]  Already bound, ignoring bind()
+2021-09-28 18:34:43,248 [INFO]  Epoch[0] Batch [0-21]	Speed: 3286.48 samples/sec	cross-entropy=14.084522	Age-accuracy=0.000000
+2021-09-28 18:34:43,340 [INFO]  Epoch[0] Train-cross-entropy=11.872146
+2021-09-28 18:34:43,340 [INFO]  Epoch[0] Train-Age-accuracy=0.000000
+2021-09-28 18:34:43,341 [INFO]  Epoch[0] Time cost=0.223
+2021-09-28 18:34:43,344 [INFO]  Saved checkpoint to "./Age/model-0000.params"
+2021-09-28 18:34:43,362 [INFO]  Epoch[0] Validation-cross-entropy=12.406078
+2021-09-28 18:34:43,362 [INFO]  Epoch[0] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:43,467 [INFO]  Epoch[1] Batch [0-21]	Speed: 3377.40 samples/sec	cross-entropy=11.521508	Age-accuracy=0.000000
+2021-09-28 18:34:43,558 [INFO]  Epoch[1] Train-cross-entropy=10.487755
+2021-09-28 18:34:43,558 [INFO]  Epoch[1] Train-Age-accuracy=0.000000
+2021-09-28 18:34:43,558 [INFO]  Epoch[1] Time cost=0.195
+2021-09-28 18:34:43,561 [INFO]  Saved checkpoint to "./Age/model-0001.params"
+2021-09-28 18:34:43,580 [INFO]  Epoch[1] Validation-cross-entropy=12.823633
+2021-09-28 18:34:43,580 [INFO]  Epoch[1] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:43,688 [INFO]  Epoch[2] Batch [0-21]	Speed: 3292.40 samples/sec	cross-entropy=10.764214	Age-accuracy=0.000000
+2021-09-28 18:34:43,779 [INFO]  Epoch[2] Train-cross-entropy=9.742509
+2021-09-28 18:34:43,779 [INFO]  Epoch[2] Train-Age-accuracy=0.000000
+2021-09-28 18:34:43,779 [INFO]  Epoch[2] Time cost=0.199
+2021-09-28 18:34:43,782 [INFO]  Saved checkpoint to "./Age/model-0002.params"
+2021-09-28 18:34:43,802 [INFO]  Epoch[2] Validation-cross-entropy=13.173696
+2021-09-28 18:34:43,803 [INFO]  Epoch[2] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:43,907 [INFO]  Epoch[3] Batch [0-21]	Speed: 3366.83 samples/sec	cross-entropy=10.172303	Age-accuracy=0.000000
+2021-09-28 18:34:44,000 [INFO]  Epoch[3] Train-cross-entropy=9.098478
+2021-09-28 18:34:44,001 [INFO]  Epoch[3] Train-Age-accuracy=0.000000
+2021-09-28 18:34:44,001 [INFO]  Epoch[3] Time cost=0.198
+2021-09-28 18:34:44,003 [INFO]  Saved checkpoint to "./Age/model-0003.params"
+2021-09-28 18:34:44,022 [INFO]  Epoch[3] Validation-cross-entropy=13.536431
+2021-09-28 18:34:44,022 [INFO]  Epoch[3] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:44,128 [INFO]  Epoch[4] Batch [0-21]	Speed: 3319.10 samples/sec	cross-entropy=9.701706	Age-accuracy=0.000000
+2021-09-28 18:34:44,219 [INFO]  Epoch[4] Train-cross-entropy=8.574247
+2021-09-28 18:34:44,219 [INFO]  Epoch[4] Train-Age-accuracy=0.000000
+2021-09-28 18:34:44,219 [INFO]  Epoch[4] Time cost=0.197
+2021-09-28 18:34:44,223 [INFO]  Saved checkpoint to "./Age/model-0004.params"
+2021-09-28 18:34:44,242 [INFO]  Epoch[4] Validation-cross-entropy=13.825887
+2021-09-28 18:34:44,242 [INFO]  Epoch[4] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:44,348 [INFO]  Epoch[5] Batch [0-21]	Speed: 3320.62 samples/sec	cross-entropy=9.290485	Age-accuracy=0.000000
+2021-09-28 18:34:44,440 [INFO]  Epoch[5] Train-cross-entropy=8.124933
+2021-09-28 18:34:44,440 [INFO]  Epoch[5] Train-Age-accuracy=0.000000
+2021-09-28 18:34:44,440 [INFO]  Epoch[5] Time cost=0.198
+2021-09-28 18:34:44,443 [INFO]  Saved checkpoint to "./Age/model-0005.params"
+2021-09-28 18:34:44,462 [INFO]  Epoch[5] Validation-cross-entropy=14.037713
+2021-09-28 18:34:44,462 [INFO]  Epoch[5] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:44,572 [INFO]  Epoch[6] Batch [0-21]	Speed: 3202.92 samples/sec	cross-entropy=8.922773	Age-accuracy=0.000000
+2021-09-28 18:34:44,670 [INFO]  Epoch[6] Train-cross-entropy=7.733497
+2021-09-28 18:34:44,670 [INFO]  Epoch[6] Train-Age-accuracy=0.000000
+2021-09-28 18:34:44,670 [INFO]  Epoch[6] Time cost=0.208
+2021-09-28 18:34:44,673 [INFO]  Saved checkpoint to "./Age/model-0006.params"
+2021-09-28 18:34:44,693 [INFO]  Epoch[6] Validation-cross-entropy=14.183048
+2021-09-28 18:34:44,693 [INFO]  Epoch[6] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:44,798 [INFO]  Epoch[7] Batch [0-21]	Speed: 3385.49 samples/sec	cross-entropy=8.586018	Age-accuracy=0.000000
+2021-09-28 18:34:44,889 [INFO]  Epoch[7] Train-cross-entropy=7.387909
+2021-09-28 18:34:44,889 [INFO]  Epoch[7] Train-Age-accuracy=0.000000
+2021-09-28 18:34:44,889 [INFO]  Epoch[7] Time cost=0.196
+2021-09-28 18:34:44,892 [INFO]  Saved checkpoint to "./Age/model-0007.params"
+2021-09-28 18:34:44,912 [INFO]  Epoch[7] Validation-cross-entropy=14.318691
+2021-09-28 18:34:44,912 [INFO]  Epoch[7] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:45,022 [INFO]  Epoch[8] Batch [0-21]	Speed: 3210.80 samples/sec	cross-entropy=8.275676	Age-accuracy=0.000000
+2021-09-28 18:34:45,114 [INFO]  Epoch[8] Train-cross-entropy=7.080085
+2021-09-28 18:34:45,114 [INFO]  Epoch[8] Train-Age-accuracy=0.000000
+2021-09-28 18:34:45,114 [INFO]  Epoch[8] Time cost=0.202
+2021-09-28 18:34:45,117 [INFO]  Saved checkpoint to "./Age/model-0008.params"
+2021-09-28 18:34:45,137 [INFO]  Epoch[8] Validation-cross-entropy=14.399341
+2021-09-28 18:34:45,137 [INFO]  Epoch[8] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:45,248 [INFO]  Epoch[9] Batch [0-21]	Speed: 3186.14 samples/sec	cross-entropy=7.989033	Age-accuracy=0.000000
+2021-09-28 18:34:45,337 [INFO]  Epoch[9] Train-cross-entropy=6.791304
+2021-09-28 18:34:45,337 [INFO]  Epoch[9] Train-Age-accuracy=0.000000
+2021-09-28 18:34:45,337 [INFO]  Epoch[9] Time cost=0.200
+2021-09-28 18:34:45,340 [INFO]  Saved checkpoint to "./Age/model-0009.params"
+2021-09-28 18:34:45,359 [INFO]  Epoch[9] Validation-cross-entropy=14.474047
+2021-09-28 18:34:45,359 [INFO]  Epoch[9] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:45,465 [INFO]  Epoch[10] Batch [0-21]	Speed: 3336.98 samples/sec	cross-entropy=7.719163	Age-accuracy=0.000000
+2021-09-28 18:34:45,560 [INFO]  Epoch[10] Train-cross-entropy=6.517324
+2021-09-28 18:34:45,560 [INFO]  Epoch[10] Train-Age-accuracy=0.000000
+2021-09-28 18:34:45,561 [INFO]  Epoch[10] Time cost=0.202
+2021-09-28 18:34:45,564 [INFO]  Saved checkpoint to "./Age/model-0010.params"
+2021-09-28 18:34:45,583 [INFO]  Epoch[10] Validation-cross-entropy=14.547172
+2021-09-28 18:34:45,583 [INFO]  Epoch[10] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:45,698 [INFO]  Epoch[11] Batch [0-21]	Speed: 3077.99 samples/sec	cross-entropy=7.466978	Age-accuracy=0.000000
+2021-09-28 18:34:45,791 [INFO]  Epoch[11] Train-cross-entropy=6.269176
+2021-09-28 18:34:45,791 [INFO]  Epoch[11] Train-Age-accuracy=0.000000
+2021-09-28 18:34:45,791 [INFO]  Epoch[11] Time cost=0.208
+2021-09-28 18:34:45,794 [INFO]  Saved checkpoint to "./Age/model-0011.params"
+2021-09-28 18:34:45,813 [INFO]  Epoch[11] Validation-cross-entropy=14.589308
+2021-09-28 18:34:45,813 [INFO]  Epoch[11] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:45,918 [INFO]  Epoch[12] Batch [0-21]	Speed: 3382.63 samples/sec	cross-entropy=7.224881	Age-accuracy=0.000000
+2021-09-28 18:34:46,011 [INFO]  Epoch[12] Train-cross-entropy=6.040451
+2021-09-28 18:34:46,011 [INFO]  Epoch[12] Train-Age-accuracy=0.000000
+2021-09-28 18:34:46,011 [INFO]  Epoch[12] Time cost=0.198
+2021-09-28 18:34:46,015 [INFO]  Saved checkpoint to "./Age/model-0012.params"
+2021-09-28 18:34:46,034 [INFO]  Epoch[12] Validation-cross-entropy=14.640901
+2021-09-28 18:34:46,034 [INFO]  Epoch[12] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:46,137 [INFO]  Epoch[13] Batch [0-21]	Speed: 3441.81 samples/sec	cross-entropy=7.000584	Age-accuracy=0.000000
+2021-09-28 18:34:46,226 [INFO]  Epoch[13] Train-cross-entropy=5.827429
+2021-09-28 18:34:46,226 [INFO]  Epoch[13] Train-Age-accuracy=0.000000
+2021-09-28 18:34:46,226 [INFO]  Epoch[13] Time cost=0.192
+2021-09-28 18:34:46,229 [INFO]  Saved checkpoint to "./Age/model-0013.params"
+2021-09-28 18:34:46,247 [INFO]  Epoch[13] Validation-cross-entropy=14.685030
+2021-09-28 18:34:46,247 [INFO]  Epoch[13] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:46,355 [INFO]  Epoch[14] Batch [0-21]	Speed: 3283.40 samples/sec	cross-entropy=6.784719	Age-accuracy=0.000000
+2021-09-28 18:34:46,447 [INFO]  Epoch[14] Train-cross-entropy=5.631187
+2021-09-28 18:34:46,447 [INFO]  Epoch[14] Train-Age-accuracy=0.000000
+2021-09-28 18:34:46,447 [INFO]  Epoch[14] Time cost=0.200
+2021-09-28 18:34:46,450 [INFO]  Saved checkpoint to "./Age/model-0014.params"
+2021-09-28 18:34:46,469 [INFO]  Epoch[14] Validation-cross-entropy=14.744541
+2021-09-28 18:34:46,469 [INFO]  Epoch[14] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:46,574 [INFO]  Epoch[15] Batch [0-21]	Speed: 3364.34 samples/sec	cross-entropy=6.576803	Age-accuracy=0.000000
+2021-09-28 18:34:46,664 [INFO]  Epoch[15] Train-cross-entropy=5.441986
+2021-09-28 18:34:46,664 [INFO]  Epoch[15] Train-Age-accuracy=0.000000
+2021-09-28 18:34:46,664 [INFO]  Epoch[15] Time cost=0.195
+2021-09-28 18:34:46,669 [INFO]  Saved checkpoint to "./Age/model-0015.params"
+2021-09-28 18:34:46,687 [INFO]  Epoch[15] Validation-cross-entropy=14.799488
+2021-09-28 18:34:46,687 [INFO]  Epoch[15] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:46,792 [INFO]  Epoch[16] Batch [0-21]	Speed: 3384.23 samples/sec	cross-entropy=6.376664	Age-accuracy=0.000000
+2021-09-28 18:34:46,879 [INFO]  Epoch[16] Train-cross-entropy=5.263161
+2021-09-28 18:34:46,879 [INFO]  Epoch[16] Train-Age-accuracy=0.000000
+2021-09-28 18:34:46,879 [INFO]  Epoch[16] Time cost=0.191
+2021-09-28 18:34:46,882 [INFO]  Saved checkpoint to "./Age/model-0016.params"
+2021-09-28 18:34:46,900 [INFO]  Epoch[16] Validation-cross-entropy=14.849543
+2021-09-28 18:34:46,900 [INFO]  Epoch[16] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:47,005 [INFO]  Epoch[17] Batch [0-21]	Speed: 3390.62 samples/sec	cross-entropy=6.182183	Age-accuracy=0.000000
+2021-09-28 18:34:47,096 [INFO]  Epoch[17] Train-cross-entropy=5.105541
+2021-09-28 18:34:47,096 [INFO]  Epoch[17] Train-Age-accuracy=0.000000
+2021-09-28 18:34:47,096 [INFO]  Epoch[17] Time cost=0.196
+2021-09-28 18:34:47,100 [INFO]  Saved checkpoint to "./Age/model-0017.params"
+2021-09-28 18:34:47,118 [INFO]  Epoch[17] Validation-cross-entropy=14.903362
+2021-09-28 18:34:47,118 [INFO]  Epoch[17] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:47,223 [INFO]  Epoch[18] Batch [0-21]	Speed: 3370.18 samples/sec	cross-entropy=6.001733	Age-accuracy=0.000000
+2021-09-28 18:34:47,314 [INFO]  Epoch[18] Train-cross-entropy=4.945423
+2021-09-28 18:34:47,314 [INFO]  Epoch[18] Train-Age-accuracy=0.000000
+2021-09-28 18:34:47,314 [INFO]  Epoch[18] Time cost=0.196
+2021-09-28 18:34:47,317 [INFO]  Saved checkpoint to "./Age/model-0018.params"
+2021-09-28 18:34:47,338 [INFO]  Epoch[18] Validation-cross-entropy=14.965137
+2021-09-28 18:34:47,338 [INFO]  Epoch[18] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:47,444 [INFO]  Epoch[19] Batch [0-21]	Speed: 3307.21 samples/sec	cross-entropy=5.824203	Age-accuracy=0.000000
+2021-09-28 18:34:47,535 [INFO]  Epoch[19] Train-cross-entropy=4.803657
+2021-09-28 18:34:47,535 [INFO]  Epoch[19] Train-Age-accuracy=0.000000
+2021-09-28 18:34:47,535 [INFO]  Epoch[19] Time cost=0.197
+2021-09-28 18:34:47,538 [INFO]  Saved checkpoint to "./Age/model-0019.params"
+2021-09-28 18:34:47,557 [INFO]  Epoch[19] Validation-cross-entropy=15.038735
+2021-09-28 18:34:47,557 [INFO]  Epoch[19] Validation-Age-accuracy=0.000000
+2021-09-28 18:34:47,666 [INFO]  Epoch[20] Batch [0-21]	Speed: 3241.40 samples/sec	cross-entropy=5.661178	Age-accuracy=0.000000
+2021-09-28 18:34:47,757 [INFO]  Epoch[20] Train-cross-entropy=4.662680
+2021-09-28 18:34:47,757 [INFO]  Epoch[20] Train-Age-accuracy=0.000000
+2021-09-28 18:34:47,758 [INFO]  Epoch[20] Time cost=0.201
+2021-09-28 18:34:47,761 [INFO]  Saved checkpoint to "./Age/model-0020.params"
+2021-09-28 18:34:47,779 [INFO]  No improvement detected for 20 epochs compared to 12.40607795715332 last error obtained: 15.103116989135742, stopping here
+2021-09-28 18:34:47,779 [INFO]  
+========== done (4.6649909019470215 s) fit model
+2021-09-28 18:54:22,326 [INFO]  
+========== start: fit model
+2021-09-28 18:54:22,328 [WARNING]  Already bound, ignoring bind()
+2021-09-28 18:54:22,460 [INFO]  Epoch[0] Batch [0-26]	Speed: 3439.46 samples/sec	cross-entropy=16.707360	Age-accuracy=0.000000
+2021-09-28 18:54:22,576 [INFO]  Epoch[0] Train-cross-entropy=14.155380
+2021-09-28 18:54:22,576 [INFO]  Epoch[0] Train-Age-accuracy=0.000000
+2021-09-28 18:54:22,576 [INFO]  Epoch[0] Time cost=0.246
+2021-09-28 18:54:22,580 [INFO]  Saved checkpoint to "age/model-0000.params"
+2021-09-28 18:54:22,599 [INFO]  Epoch[0] Validation-cross-entropy=16.110029
+2021-09-28 18:54:22,599 [INFO]  Epoch[0] Validation-Age-accuracy=0.000000
+2021-09-28 18:54:22,729 [INFO]  Epoch[1] Batch [0-26]	Speed: 3333.07 samples/sec	cross-entropy=14.801456	Age-accuracy=0.000000
+2021-09-28 18:54:22,843 [INFO]  Epoch[1] Train-cross-entropy=12.503660
+2021-09-28 18:54:22,843 [INFO]  Epoch[1] Train-Age-accuracy=0.000000
+2021-09-28 18:54:22,843 [INFO]  Epoch[1] Time cost=0.244
+2021-09-28 18:54:22,846 [INFO]  Saved checkpoint to "age/model-0001.params"
+2021-09-28 18:54:22,865 [INFO]  Epoch[1] Validation-cross-entropy=14.827401
+2021-09-28 18:54:22,865 [INFO]  Epoch[1] Validation-Age-accuracy=0.000000
+2021-09-28 18:54:22,989 [INFO]  Epoch[2] Batch [0-26]	Speed: 3484.70 samples/sec	cross-entropy=13.146250	Age-accuracy=0.000000
+2021-09-28 18:54:23,098 [INFO]  Epoch[2] Train-cross-entropy=11.537184
+2021-09-28 18:54:23,099 [INFO]  Epoch[2] Train-Age-accuracy=0.000000
+2021-09-28 18:54:23,099 [INFO]  Epoch[2] Time cost=0.233
+2021-09-28 18:54:23,102 [INFO]  Saved checkpoint to "age/model-0002.params"
+2021-09-28 18:54:23,121 [INFO]  Epoch[2] Validation-cross-entropy=14.388029
+2021-09-28 18:54:23,121 [INFO]  Epoch[2] Validation-Age-accuracy=0.000000
+2021-09-28 18:54:23,254 [INFO]  Epoch[3] Batch [0-26]	Speed: 3264.33 samples/sec	cross-entropy=12.346694	Age-accuracy=0.000000
+2021-09-28 18:54:23,374 [INFO]  Epoch[3] Train-cross-entropy=10.828259
+2021-09-28 18:54:23,374 [INFO]  Epoch[3] Train-Age-accuracy=0.000000
+2021-09-28 18:54:23,374 [INFO]  Epoch[3] Time cost=0.253
+2021-09-28 18:54:23,377 [INFO]  Saved checkpoint to "age/model-0003.params"
+2021-09-28 18:54:23,396 [INFO]  Epoch[3] Validation-cross-entropy=14.081824
+2021-09-28 18:54:23,396 [INFO]  Epoch[3] Validation-Age-accuracy=0.000000
+2021-09-28 18:54:23,550 [INFO]  Epoch[4] Batch [0-26]	Speed: 2806.56 samples/sec	cross-entropy=11.650680	Age-accuracy=0.000000
+2021-09-28 18:54:23,689 [INFO]  Epoch[4] Train-cross-entropy=10.225367
+2021-09-28 18:54:23,689 [INFO]  Epoch[4] Train-Age-accuracy=0.000000
+2021-09-28 18:54:23,689 [INFO]  Epoch[4] Time cost=0.293
+2021-09-28 18:54:23,694 [INFO]  Saved checkpoint to "age/model-0004.params"
+2021-09-28 18:54:23,718 [INFO]  Epoch[4] Validation-cross-entropy=13.899272
+2021-09-28 18:54:23,718 [INFO]  Epoch[4] Validation-Age-accuracy=0.000000
+2021-09-28 18:54:23,873 [INFO]  Epoch[5] Batch [0-26]	Speed: 2809.48 samples/sec	cross-entropy=11.072173	Age-accuracy=0.000000
+2021-09-28 18:54:24,025 [INFO]  Epoch[5] Train-cross-entropy=9.723658
+2021-09-28 18:54:24,025 [INFO]  Epoch[5] Train-Age-accuracy=0.000000
+2021-09-28 18:54:24,026 [INFO]  Epoch[5] Time cost=0.307
+2021-09-28 18:54:24,030 [INFO]  Saved checkpoint to "age/model-0005.params"
+2021-09-28 18:54:24,054 [INFO]  Epoch[5] Validation-cross-entropy=13.790578
+2021-09-28 18:54:24,054 [INFO]  Epoch[5] Validation-Age-accuracy=0.000000
+2021-09-28 18:54:24,226 [INFO]  Epoch[6] Batch [0-26]	Speed: 2520.71 samples/sec	cross-entropy=10.570274	Age-accuracy=0.000000
+2021-09-28 18:54:24,358 [INFO]  Epoch[6] Train-cross-entropy=9.284017
+2021-09-28 18:54:24,359 [INFO]  Epoch[6] Train-Age-accuracy=0.000000
+2021-09-28 18:54:24,359 [INFO]  Epoch[6] Time cost=0.304
+2021-09-28 18:54:24,362 [INFO]  Saved checkpoint to "age/model-0006.params"
+2021-09-28 18:54:24,380 [INFO]  Epoch[6] Validation-cross-entropy=13.728258
+2021-09-28 18:54:24,380 [INFO]  Epoch[6] Validation-Age-accuracy=0.000000
+2021-09-28 18:54:24,503 [INFO]  Epoch[7] Batch [0-26]	Speed: 3531.90 samples/sec	cross-entropy=10.132060	Age-accuracy=0.000000
+2021-09-28 18:54:24,612 [INFO]  Epoch[7] Train-cross-entropy=8.905225
+2021-09-28 18:54:24,612 [INFO]  Epoch[7] Train-Age-accuracy=0.000000
+2021-09-28 18:54:24,612 [INFO]  Epoch[7] Time cost=0.232
+2021-09-28 18:54:24,615 [INFO]  Saved checkpoint to "age/model-0007.params"
+2021-09-28 18:54:24,634 [INFO]  Epoch[7] Validation-cross-entropy=13.701165
+2021-09-28 18:54:24,634 [INFO]  Epoch[7] Validation-Age-accuracy=0.000000
+2021-09-28 18:54:24,756 [INFO]  Epoch[8] Batch [0-26]	Speed: 3532.55 samples/sec	cross-entropy=9.734738	Age-accuracy=0.000000
+2021-09-28 18:54:24,865 [INFO]  Epoch[8] Train-cross-entropy=8.558472
+2021-09-28 18:54:24,866 [INFO]  Epoch[8] Train-Age-accuracy=0.000000
+2021-09-28 18:54:24,866 [INFO]  Epoch[8] Time cost=0.232
+2021-09-28 18:54:24,869 [INFO]  Saved checkpoint to "age/model-0008.params"
+2021-09-28 18:54:24,887 [INFO]  Epoch[8] Validation-cross-entropy=13.698276
+2021-09-28 18:54:24,887 [INFO]  Epoch[8] Validation-Age-accuracy=0.000000
+2021-09-28 18:54:25,011 [INFO]  Epoch[9] Batch [0-26]	Speed: 3515.15 samples/sec	cross-entropy=9.377078	Age-accuracy=0.000000
+2021-09-28 18:54:25,118 [INFO]  Epoch[9] Train-cross-entropy=8.257695
+2021-09-28 18:54:25,118 [INFO]  Epoch[9] Train-Age-accuracy=0.000000
+2021-09-28 18:54:25,118 [INFO]  Epoch[9] Time cost=0.231
+2021-09-28 18:54:25,122 [INFO]  Saved checkpoint to "age/model-0009.params"
+2021-09-28 18:54:25,141 [INFO]  Epoch[9] Validation-cross-entropy=13.710000
+2021-09-28 18:54:25,141 [INFO]  Epoch[9] Validation-Age-accuracy=0.000000
+2021-09-28 18:54:25,263 [INFO]  Epoch[10] Batch [0-26]	Speed: 3531.95 samples/sec	cross-entropy=9.038333	Age-accuracy=0.000000
+2021-09-28 18:54:25,371 [INFO]  Epoch[10] Train-cross-entropy=7.970245
+2021-09-28 18:54:25,371 [INFO]  Epoch[10] Train-Age-accuracy=0.000000
+2021-09-28 18:54:25,371 [INFO]  Epoch[10] Time cost=0.231
+2021-09-28 18:54:25,374 [INFO]  Saved checkpoint to "age/model-0010.params"
+2021-09-28 18:54:25,392 [INFO]  Epoch[10] Validation-cross-entropy=13.735522
+2021-09-28 18:54:25,393 [INFO]  Epoch[10] Validation-Age-accuracy=0.000000
+2021-09-28 18:54:25,515 [INFO]  Epoch[11] Batch [0-26]	Speed: 3532.82 samples/sec	cross-entropy=8.733234	Age-accuracy=0.000000
+2021-09-28 18:54:25,623 [INFO]  Epoch[11] Train-cross-entropy=7.726655
+2021-09-28 18:54:25,623 [INFO]  Epoch[11] Train-Age-accuracy=0.000000
+2021-09-28 18:54:25,623 [INFO]  Epoch[11] Time cost=0.231
+2021-09-28 18:54:25,626 [INFO]  Saved checkpoint to "age/model-0011.params"
+2021-09-28 18:54:25,645 [INFO]  Epoch[11] Validation-cross-entropy=13.799427
+2021-09-28 18:54:25,646 [INFO]  Epoch[11] Validation-Age-accuracy=0.000000
+2021-09-28 18:54:25,767 [INFO]  Epoch[12] Batch [0-26]	Speed: 3553.37 samples/sec	cross-entropy=8.433402	Age-accuracy=0.000000
+2021-09-28 18:54:25,876 [INFO]  Epoch[12] Train-cross-entropy=7.483922
+2021-09-28 18:54:25,876 [INFO]  Epoch[12] Train-Age-accuracy=0.000000
+2021-09-28 18:54:25,876 [INFO]  Epoch[12] Time cost=0.230
+2021-09-28 18:54:25,879 [INFO]  Saved checkpoint to "age/model-0012.params"
+2021-09-28 18:54:25,897 [INFO]  No improvement detected for 5 epochs compared to 13.701165390014648 last error obtained: 13.832619094848633, stopping here
+2021-09-28 18:54:25,897 [INFO]  
+========== done (3.5718369483947754 s) fit model

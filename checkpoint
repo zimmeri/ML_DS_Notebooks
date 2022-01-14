@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnnrdo1_weights.csv"
+all_model_checkpoint_paths: "cnnrdo1_weights.csv"
